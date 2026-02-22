@@ -1,16 +1,40 @@
 {
-    "blogs": [
-        {
-            "title": "Agar Planet is back!!",
-            "body": "About Planet's comeback.\nAgar Planet finally came back after ~6 years of inactivity on his YouTube Account. This is crazy.",
-            "author": "Agar Planet fan",
-            "id": 1
-        },
-        {
-            "title": "Blog number 2",
-            "body": "This is a test blog.\nThe contents of a test blog aren't all that interesting.\nIt's just the nature of a test.\n:)",
-            "author": "Someone on the internet",
-            "id": 2
-        }
-    ] 
+  "blogs": [
+    {
+      "title": "Agar Planet is back!!",
+      "body": "About Planet's comeback.\nAgar Planet finally came back after ~6 years of inactivity on his YouTube Account. This is crazy.",
+      "author": "Agar Planet fan",
+      "id": "1"
+    },
+    {
+      "title": "Blog number 2",
+      "body": "This is a test blog.\nThe contents of a test blog aren't all that interesting.\nIt's just the nature of a test.\n:)",
+      "author": "Someone on the internet",
+      "id": "2"
+    },
+    {
+      "id": "946c",
+      "title": "Agar Planet Blog",
+      "body": "Yeah",
+      "author": "mario"
+    },
+    {
+      "id": "67d4",
+      "title": "Test blog",
+      "body": "we be testng sometimes",
+      "author": "mario"
+    },
+    {
+      "id": "761d",
+      "title": "Test",
+      "body": "Test",
+      "author": "mario"
+    },
+    {
+      "id": "feef",
+      "title": "I am tired of adding test blogs",
+      "body": "They really be polluting my project atp ://",
+      "author": "mario"
+    }
+  ]
 }
